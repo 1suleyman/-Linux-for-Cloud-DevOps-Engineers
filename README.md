@@ -13,12 +13,12 @@ Each lab builds on the previous one and mirrors **real-world DevOps tasks** you�
 
 This project focuses on **core Linux skills every Cloud/DevOps Engineer must master**, including:
 
-👤 Linux user & group management
-🔐 Permissions, ownership, and access control
-📁 Directory & file operations (absolute & relative paths)
-📝 Text processing with `sed`, `grep`, and `vi`
-🧠 Command-line efficiency & safety
-☁️ Cloud-integrated Linux storage (AWS EC2 + EBS)
+👤 Linux user & group management <br>
+🔐 Permissions, ownership, and access control <br>
+📁 Directory & file operations (absolute & relative paths) <br>
+📝 Text processing with `sed`, `grep`, and `vi` <br>
+🧠 Command-line efficiency & safety <br>
+☁️ Cloud-integrated Linux storage (AWS EC2 + EBS) <br>
 🧹 Cleanup, auditing, and environment teardown
 
 Each lab is documented in its **own folder** with a README containing:
@@ -85,10 +85,10 @@ This project is intentionally split into **focused labs** to keep learning struc
 
 This repository demonstrates:
 
-✔️ Practical Linux skills used daily by DevOps engineers
-✔️ Safe system administration practices
-✔️ Cloud + Linux integration (EC2 & EBS)
-✔️ Clean environment teardown & cost awareness
+✔️ Practical Linux skills used daily by DevOps engineers <br>
+✔️ Safe system administration practices <br>
+✔️ Cloud + Linux integration (EC2 & EBS) <br>
+✔️ Clean environment teardown & cost awareness <br>
 ✔️ Terraform + Linux working together
 
 This is **not a toy project** — it mirrors real operational work.
