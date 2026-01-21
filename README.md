@@ -37,7 +37,7 @@ This project is intentionally split into **focused labs** to keep learning struc
 
 | Lab | Title                    | Link             | Key Skill                                                            |
 | --- | ------------------------ | ---------------- | -------------------------------------------------------------------- |
-| 0   | Infrastructure Bootstrap | 📂 `lab-0-infra` | Provisioning EC2 with Terraform, SSH access, tagging, reusable infra |
+| 0   | Infrastructure Bootstrap | 📂 [lab-0-infra](https://github.com/1suleyman/-Lab-0-Infrastructure-Bootstrap-Terraform-/tree/main) | Provisioning EC2 with Terraform, SSH access, tagging, reusable infra |
 
 ---
 
