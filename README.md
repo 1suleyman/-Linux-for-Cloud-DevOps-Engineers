@@ -45,7 +45,7 @@ This project is intentionally split into **focused labs** to keep learning struc
 
 | Lab | Title                     | Link                    | Key Skill                                                                  |
 | --- | ------------------------- | ----------------------- | -------------------------------------------------------------------------- |
-| 1   | Users & Groups Management | 📂 `lab-1-users-groups` | Creating users/groups, primary & secondary groups, ownership & permissions |
+| 1   | Users & Groups Management | 📂 [lab-1-users-groups](https://github.com/1suleyman/-Linux-Users-Groups-Permissions-Lab-1/tree/main) | Creating users/groups, primary & secondary groups, ownership & permissions |
 
 ---
 
