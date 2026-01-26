@@ -37,7 +37,7 @@ This project is intentionally split into **focused labs** to keep learning struc
 
 | Lab | Title                    | Link             | Key Skill                                                            |
 | --- | ------------------------ | ---------------- | -------------------------------------------------------------------- |
-| 0   | Infrastructure Bootstrap | 📂 [lab-0-infra](https://github.com/1suleyman/-Lab-0-Infrastructure-Bootstrap-Terraform-/tree/main) | Provisioning EC2 with Terraform, SSH access, tagging, reusable infra |
+| 0   | Infrastructure Bootstrap | 📂 [Repo](https://github.com/1suleyman/-Lab-0-Infrastructure-Bootstrap-Terraform-/tree/main) | Provisioning EC2 with Terraform, SSH access, tagging, reusable infra |
 
 ---
 
@@ -45,7 +45,8 @@ This project is intentionally split into **focused labs** to keep learning struc
 
 | Lab | Title                     | Link                    | Key Skill                                                                  |
 | --- | ------------------------- | ----------------------- | -------------------------------------------------------------------------- |
-| 1   | Users & Groups Management | 📂 [lab-1-users-groups](https://github.com/1suleyman/-Linux-Users-Groups-Permissions-Lab-1/tree/main) | Creating users/groups, primary & secondary groups, ownership & permissions |
+| 1   | Users & Groups Management | 📂 [Repo](https://github.com/1suleyman/-Linux-Users-Groups-Permissions-Lab-1/tree/main) | Creating users/groups, primary & secondary groups, ownership & permissions |
+| 2   | Bootstrap Automation (user_data.sh) | 📂 [Repo](https://github.com/1suleyman/Linux-Lab-1-Bootstrap-Automation-user_data.sh-/tree/main) | Bash automation, cloud-init user_data, users & groups provisioning, exit codes, stdout/stderr redirection, chpasswd, idempotent scripts, verification logging |
 
 ---
 
@@ -53,7 +54,7 @@ This project is intentionally split into **focused labs** to keep learning struc
 
 | Lab | Title                 | Link                         | Key Skill                                                          |
 | --- | --------------------- | ---------------------------- | ------------------------------------------------------------------ |
-| 2   | Filesystem Operations | 📂 `lab-2-files-directories` | Creating, moving, renaming, deleting files & directories using CLI |
+| 2   | Filesystem Operations | 📂 [Repo]() | Creating, moving, renaming, deleting files & directories using CLI |
 
 ---
 
@@ -61,7 +62,7 @@ This project is intentionally split into **focused labs** to keep learning struc
 
 | Lab | Title                     | Link                       | Key Skill                                                             |
 | --- | ------------------------- | -------------------------- | --------------------------------------------------------------------- |
-| 3   | Text Processing & Editing | 📂 `lab-3-text-processing` | `sed`, `grep`, vi editor, search & replace, file content manipulation |
+| 3   | Text Processing & Editing | 📂 [Repo]() | `sed`, `grep`, vi editor, search & replace, file content manipulation |
 
 ---
 
@@ -69,7 +70,7 @@ This project is intentionally split into **focused labs** to keep learning struc
 
 | Lab | Title                  | Link                   | Key Skill                                                     |
 | --- | ---------------------- | ---------------------- | ------------------------------------------------------------- |
-| 4   | Linux Storage with EBS | 📂 `lab-4-storage-ebs` | Creating filesystems, mounting EBS volumes, disk verification |
+| 4   | Linux Storage with EBS | 📂 [Repo]() | Creating filesystems, mounting EBS volumes, disk verification |
 
 ---
 
@@ -77,7 +78,7 @@ This project is intentionally split into **focused labs** to keep learning struc
 
 | Lab | Title              | Link               | Key Skill                                                          |
 | --- | ------------------ | ------------------ | ------------------------------------------------------------------ |
-| 5   | Cleanup & Teardown | 📂 `lab-5-cleanup` | User/group removal, file auditing, unmounting storage, AWS cleanup |
+| 5   | Cleanup & Teardown | 📂 [Repo]() | User/group removal, file auditing, unmounting storage, AWS cleanup |
 
 ---
 
