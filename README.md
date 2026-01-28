@@ -46,7 +46,8 @@ This project is intentionally split into **focused labs** to keep learning struc
 | Lab | Title                     | Link                    | Key Skill                                                                  |
 | --- | ------------------------- | ----------------------- | -------------------------------------------------------------------------- |
 | 1   | Users & Groups Management | 📂 [Repo](https://github.com/1suleyman/-Linux-Users-Groups-Permissions-Lab-1/tree/main) | Creating users/groups, primary & secondary groups, ownership & permissions |
-| 2   | Bootstrap Automation (user_data.sh) | 📂 [Repo](https://github.com/1suleyman/Linux-Lab-1-Bootstrap-Automation-user_data.sh-/tree/main) | Bash automation, cloud-init user_data, users & groups provisioning, exit codes, stdout/stderr redirection, chpasswd, idempotent scripts, verification logging |
+| 2   | Linux Users/Groups Bootstrap Automation — Part 1 (Code Walkthrough) | 📂 [Repo](https://github.com/1suleyman/-Linux-Users-Groups-Bootstrap-Automation-Lab-user_data.sh-Part-1-Code-Walkthrough-) | Bash scripting fundamentals, user_data.sh logic walkthrough, arrays & loops, exit-code driven logic, stdout/stderr redirection, chpasswd usage, idempotent design |
+| 3   | Linux Users/Groups Bootstrap Automation — Part 2 (Testing + Debugging) | 📂 [Repo](https://github.com/1suleyman/-Linux-Lab-1-Bootstrap-Automation-user_data.sh-Part-2-Testing-Debugging-) | Cloud-init debugging, Terraform user_data validation, PATH troubleshooting, env -i reproduction, Bash reserved variables, log-driven debugging, engineering trade-off analysis |
 
 ---
 
