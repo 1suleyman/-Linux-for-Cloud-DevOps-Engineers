@@ -55,7 +55,7 @@ This project is intentionally split into **focused labs** to keep learning struc
 
 | Lab | Title                 | Link                         | Key Skill                                                          |
 | --- | --------------------- | ---------------------------- | ------------------------------------------------------------------ |
-| 2   | Filesystem Operations | 📂 [Repo]() | Creating, moving, renaming, deleting files & directories using CLI |
+| 2   | Linux Files & Directory Operations (User Switching + CLI) | 📂 [Repo](https://github.com/1suleyman/-Linux-Files-Directory-Operations-Lab-2-User-Switching-Real-CLI-Work-/tree/main) | Linux user switching, sudoers.d configuration, privilege escalation, mkdir/touch/mv/rm, relative paths & wildcards, safe deletions, real-world permission troubleshooting |
 
 ---
 
