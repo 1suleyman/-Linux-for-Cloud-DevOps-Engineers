@@ -63,7 +63,7 @@ This project is intentionally split into **focused labs** to keep learning struc
 
 | Lab | Title                     | Link                       | Key Skill                                                             |
 | --- | ------------------------- | -------------------------- | --------------------------------------------------------------------- |
-| 3   | Text Processing & Editing | 📂 [Repo]() | `sed`, `grep`, vi editor, search & replace, file content manipulation |
+| 3   | Linux Text Processing & VI (Search / Replace) | 📂 [Repo](https://github.com/1suleyman/Linux-Text-Processing-VI-Lab/tree/main) | Linux text processing, sed in-place editing, vi search & replace, user switching best practices, sudo via wheel, safe recursive deletes, output verification |
 
 ---
 
