@@ -71,7 +71,7 @@ This project is intentionally split into **focused labs** to keep learning struc
 
 | Lab | Title                  | Link                   | Key Skill                                                     |
 | --- | ---------------------- | ---------------------- | ------------------------------------------------------------- |
-| 4   | Linux Storage with EBS | 📂 [Repo]() | Creating filesystems, mounting EBS volumes, disk verification |
+| 4   | Linux Storage & File Systems Lab (EBS → Mount + Persistence) | 📂 [Repo](https://github.com/1suleyman/Linux-Storage-File-Systems-Lab/tree/main) | EBS attachment, lsblk, mkfs (xfs/ext4), mount, /etc/fstab, UUID, nofail, mount -a |
 
 ---
 
