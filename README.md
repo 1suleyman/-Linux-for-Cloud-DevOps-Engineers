@@ -79,7 +79,7 @@ This project is intentionally split into **focused labs** to keep learning struc
 
 | Lab | Title              | Link               | Key Skill                                                          |
 | --- | ------------------ | ------------------ | ------------------------------------------------------------------ |
-| 5   | Cleanup & Teardown | 📂 [Repo]() | User/group removal, file auditing, unmounting storage, AWS cleanup |
+| 5   | Linux Cleanup & Teardown Lab (Audit → Remove → Destroy) | 📂 [Repo](https://github.com/1suleyman/Linux-Cleanup-Teardown-Lab/tree/main) | Idempotent cleanup, find + stderr redirection, userdel/groupdel, sed fstab edits, safe unmounting, EBS detach/delete, terraform destroy |
 
 ---
 
