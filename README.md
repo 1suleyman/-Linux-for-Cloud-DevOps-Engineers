@@ -1,31 +1,35 @@
 # 🐧 Linux for Cloud & DevOps Engineers
 
-Welcome to more **Linux learning & practice** 👋
-This repository documents a **hands-on Linux project** designed specifically for **Cloud & DevOps Engineers**.
+This repository documents a hands-on Linux project focused on how systems actually behave once they’re running — and when they don’t behave as expected.
 
-The goal of this project is to **build real Linux confidence**, not just memorize commands — covering user management, permissions, file systems, text processing, and cloud-integrated storage using **AWS EC2 + EBS**.
+Rather than treating Linux as a list of commands to memorise, this project treats it as an environment to reason about:
+how users are created, how permissions interact, how storage survives reboots, how automation behaves at boot time, and how to verify that changes really took effect.
+
+The labs mirror the kind of work that happens on real Linux servers:
+making changes safely, validating assumptions, debugging unexpected state, and cleaning up environments you don’t want lingering.
 
 Each lab builds on the previous one and mirrors **real-world DevOps tasks** you’d expect when working with Linux servers in production.
 
 ---
 
-## 📚 Project Overview
+## 📚 Project Focus
 
-This project focuses on **core Linux skills every Cloud/DevOps Engineer must master**, including:
+This project explores core Linux areas that tend to surface once systems are live and under use:
 
-👤 Linux user & group management <br>
-🔐 Permissions, ownership, and access control <br>
-📁 Directory & file operations (absolute & relative paths) <br>
-📝 Text processing with `sed`, `grep`, and `vi` <br>
-🧠 Command-line efficiency & safety <br>
-☁️ Cloud-integrated Linux storage (AWS EC2 + EBS) <br>
-🧹 Cleanup, auditing, and environment teardown
+* User and group management, including primary vs supplementary groups
+* Permissions, ownership, and access boundaries
+* File and directory operations with attention to safety and context
+* Text processing and repeatable edits using standard CLI tools
+* Boot-time automation and validation
+* Linux storage behaviour when integrated with AWS EC2 + EBS
+* Auditing, cleanup, and teardown to return systems to a known state
 
-Each lab is documented in its **own folder** with a README containing:
+Each lab is documented in its own folder with a concise README covering:
 
-✅ Step-by-step commands
-🐛 Troubleshooting notes
-💡 Key takeaways
+* the setup
+* what was observed
+* how changes were verified
+* and what stood out during the process
 
 ---
 
@@ -83,23 +87,22 @@ This project is intentionally split into **focused labs** to keep learning struc
 
 ---
 
-## 🧠 Why This Project Matters
+## 🧠 Why This Repository Exists
 
-This repository demonstrates:
+This repository reflects how I approach Linux systems:
 
-✔️ Practical Linux skills used daily by DevOps engineers <br>
-✔️ Safe system administration practices <br>
-✔️ Cloud + Linux integration (EC2 & EBS) <br>
-✔️ Clean environment teardown & cost awareness <br>
-✔️ Terraform + Linux working together
+* configure carefully
+* verify explicitly
+* assume less
+* clean up properly
 
-This is **not a toy project** — it mirrors real operational work.
+It’s a record of learning how Linux behaves in environments where small details tend to matter.
 
 ---
 
 ## 📌 Final Note
 
-> Linux isn’t about memorizing commands —
-> it’s about **thinking clearly under pressure on a server you can’t afford to break**.
+Linux isn’t difficult because the commands are complex.
+It’s difficult because it’s easy to assume things worked when they didn’t.
 
-This project is my way of building that confidence.
+This project is my way of getting comfortable with that gap — and closing it deliberately.
